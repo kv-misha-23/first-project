@@ -1,3 +1,33 @@
-H1 {
-Margin: 30px;
+/* заголовки */
+ .titles { 
+  font-family: 'Inter';
 }
+
+.titles__position-center {
+  text-align: center;
+}
+
+.titles__h1 {
+  font-size: 50px;
+  /* padding: 50px 0px 20px 0px; */
+}
+
+.titles__p1 {
+  font-size: 18px;
+  line-height: 25px;
+  padding-bottom: 60px;
+}
+
+.titles__h2 {
+  font-size: 60px;
+  line-height: 69px;
+  padding: 50px 0px 20px 0px;
+}
+
+.titles__p2 {
+  font-size: 24px;
+  line-height: 34px;
+  padding-bottom: 60px;
+}
+
+/* заголовки */
